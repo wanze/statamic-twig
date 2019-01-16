@@ -1,0 +1,6 @@
+{
+    "name": "stefan-wanzenried/twig",
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}

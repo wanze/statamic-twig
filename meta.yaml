@@ -1,0 +1,5 @@
+name: Twig
+version: '0.1.0'
+description: 'Adds the Twig template engine to Statamic.'
+developer: 'Stefan Wanzenried'
+developer_url: 'https://github.com/wanze'
